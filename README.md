@@ -17,4 +17,10 @@ Nueva version de un punto de venta, la interfaz cambio respecto a la version ant
 - no se adjunta la BD ya que se trata de que las personas que lo utilizan vayan llenando la BD con los productos que necesitan.
 
 
+- para el accesos los usuarios registrados son
+  usuario normal          user : user
+  adminstrador            admin : admin
+  
+- despues de ejecutar el programa se recomienda cambiar las contraseñas o crear un nuevo usuario
+
 -esta version fue probada y desarrollada en linux, en teoria deberia funcionar en windows pero no estoy seguro.
